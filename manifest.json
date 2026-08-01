@@ -1,0 +1,23 @@
+{
+  "capture_finished_at_utc": "2026-08-01T00:11:59Z",
+  "capture_started_at_utc": "2026-08-01T00:11:57Z",
+  "captured_at_utc": "2026-08-01T00:11:57Z",
+  "captured_byte_estimate": 37298,
+  "captured_path_count": 11,
+  "consistency_retry_count": 0,
+  "excluded": [],
+  "github_hard_limit_bytes": 100000000,
+  "guardian_version": "2.0-sidecar",
+  "head_state": "symbolic",
+  "host": "aidans-mac-mini",
+  "racy_capture": false,
+  "repository_id": "agent-seatbelt-sandbox-d755859056d6",
+  "schema_version": 1,
+  "snapshot_blob_threshold_bytes": 94371840,
+  "snapshot_consistency": "stable",
+  "source_branch": "main",
+  "source_head_oid": "e3b1eef6f80b64344d1066dec1794622685cb85d",
+  "source_index_sha256": "2b4bf41f993b3bf4c0670c335d1136ddaf4070989844c167802788c545ff619e",
+  "source_path": "/Users/aidanobrien/Dev/agent-seatbelt-sandbox",
+  "upstream_observed": "origin/main"
+}
